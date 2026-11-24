@@ -1,0 +1,6 @@
+{
+  "name": "Vana Ritual — Daily Organic Wellness & Community",
+  "description": "An exclusive health and lifestyle membership delivering cold-pressed organic wellness shots weekly to your doorstep alongside guided daily habits, offline gatherings, and seasonal retreats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
